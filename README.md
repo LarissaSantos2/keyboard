@@ -6,7 +6,7 @@ Este projeto apresenta um **teclado virtual** com letras, focado em estilo visua
 - Layout completo das letras do teclado.  
 - Estilização visual para destacar cada tecla.  
 - Efeito de hover para interação visual decorativa.  
-- Efeito de foco nas teclas (`:focus`) com mudança de cor, aumento de fonte, background diferenciado e box-shadow em estilo neomorphism.
+- Efeito de foco nas teclas (`:focus`) com mudança de cor, aumento de fonte, background diferenciado e box-shadow.
 
 ## 🛠 Tecnologias
 - HTML5  
