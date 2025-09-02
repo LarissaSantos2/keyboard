@@ -22,5 +22,6 @@ Criar um teclado virtual com letras para estudo de layout e estilização.
 1. Clone o repositório ou baixe os arquivos.  
 2. Abra o arquivo `index.html` diretamente no navegador.
 
-   ```bash
+```bash
 https://larissasantos2.github.io/keyboard/
+
